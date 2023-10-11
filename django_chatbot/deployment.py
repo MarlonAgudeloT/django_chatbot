@@ -2,6 +2,7 @@ import os
 from .settings import *
 from .settings import BASE_DIR
 
+OPENAI_KEY = os.environ['OPENAI_KEY']
 
 SECRET_KEY = os.environ['SECRET_KEY']
 
