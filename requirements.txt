@@ -1,6 +1,6 @@
 
 asgiref==3.7.2
-
+openai=0.28.1
 bootstrap4==0.1.0
 Django==4.2.3
 django-crispy-forms==1.14.0
